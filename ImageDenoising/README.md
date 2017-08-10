@@ -2,9 +2,9 @@
 
 Main File: **DenoiseImage.py**
 
-GDDL.py, GDBTLS.py, RGDBTLS.py: Gradient Descent based dictionary learning algorithms are self written. While implementation of KSVD and SimCo are taken from following references.__
+GDDL.py, GDBTLS.py, RGDBTLS.py: Gradient Descent based dictionary learning algorithms are self written. While implementation of KSVD and SimCo are taken from following references.
 
-GDDL: Simple Gradient Descent based Dictionary Learning with Momentum accelearation.__
+GDDL: Simple Gradient Descent based Dictionary Learning with Momentum accelearation.<br />
 GDBTLS: Gradient Descent based Back Tracking Line Search Algorithm.__
 RGDBTLS: Regularized Gradient Descent based Back Tracking Line Search Algorithm.__
 MODDL: Method of Optimal Directions.__
