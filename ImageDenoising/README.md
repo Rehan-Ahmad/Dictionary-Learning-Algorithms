@@ -1,14 +1,13 @@
 # Image Dnoising using Dictionary learning techniques.
 
-Main File: **DenoiseImage.py**
-
-GDDL.py, GDBTLS.py, RGDBTLS.py: Gradient Descent based dictionary learning algorithms are self written.<br /> While implementation of KSVD and SimCo are taken from following references.<br />
+Main File: **DenoiseImage.py** <br />
 
 **GDDL**: Simple Gradient Descent with Momentum accelearation for Dictionary Learning .<br />
 **GDBTLS**: Gradient Descent based Back Tracking Line Search Algorithm for Dictionary Learning.<br />
 **RGDBTLS**: Regularized Gradient Descent based Back Tracking Line Search Algorithm for Dictionary Learning.<br />
 **MODDL**: Method of Optimal Directions for Dictionary Learning.<br />
 
+Gradient Descent based dictionary learning algorithms are self written.<br /> While implementation of KSVD and SimCo are taken from following references.<br />
 Some required files for RSimCo and PSimCo can be found in SimCo folder.<br />
 
 ## References: 
