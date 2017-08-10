@@ -7,7 +7,7 @@ Main File: **DenoiseImage.py** <br />
 **RGDBTLS**: Regularized Gradient Descent based Back Tracking Line Search Algorithm for Dictionary Learning.<br />
 **MODDL**: Method of Optimal Directions for Dictionary Learning.<br />
 
-Gradient Descent based dictionary learning algorithms are self written.<br /> While implementation of KSVD and SimCo are taken from following references.<br />
+Gradient Descent based dictionary learning algorithms are self written. While implementation of KSVD and SimCo are taken from following references.<br />
 Some required files for RSimCo and PSimCo can be found in SimCo folder.<br />
 
 ## References: 
